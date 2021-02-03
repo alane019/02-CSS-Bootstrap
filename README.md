@@ -1,4 +1,4 @@
-# 02-CSS-Bootstrap
+# Responsive Portfolio Example with Bootstrap
 
 Demo is viewable here: <https://alane019.github.io/02-CSS-Bootstrap/>
 
