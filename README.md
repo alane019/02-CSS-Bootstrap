@@ -1,5 +1,7 @@
 # 02-CSS-Bootstrap
 
+Demo is viewable here: <https://alane019.github.io/02-CSS-Bootstrap/>
+
 ## Description 
 
 This assignment is focused on CSS and Bootstrap
@@ -7,14 +9,12 @@ This assignment is focused on CSS and Bootstrap
 This is a portfolio website project demonstrating Bootstrap column styling and media queries to provide a mobile-first, responsive layout.
 
 ## Table of Contents
-  - [examples](#examples)
+  
   - [Usage](#usage)
+  - [Screenshots](#Screenshots)
   - [License](#license) 
 
-## Examples
-Demo is viewable here: <https://alane019.github.io/02-CSS-Bootstrap/>
-
-## Usage 
+## Usage
 
 You can use this site template as professional portfolio by cloning this repository and deploying to any web host of your choice. 
  
